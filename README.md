@@ -13,3 +13,4 @@ More from myfeature branch.
 ## How to Contribute
 
 ## Copyright
+All rights reservered.
