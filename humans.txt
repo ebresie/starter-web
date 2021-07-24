@@ -4,6 +4,7 @@
 # TEAM
 
     Eric Bresie ebresie@gmail.com
+    Jason Taylor
 
 # THANKS
 
